@@ -1,0 +1,62 @@
+[{},
+{
+  "const": "const",
+  "mongoose": "mentorSchema",
+  "=": "=",
+  "require('mongoose');": "new"
+},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{
+  "const": "});"
+},
+{},
+{
+  "const": "module.exports",
+  "mongoose": "=",
+  "=": "mongoose.model('Mentor',",
+  "require('mongoose');": "mentorSchema);"
+},
+{},
+{
+  "const": "const",
+  "mongoose": "studentSchema",
+  "=": "=",
+  "require('mongoose');": "new"
+},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{
+  "const": "});"
+},
+{},
+{
+  "const": "module.exports",
+  "mongoose": "=",
+  "=": "mongoose.model('Student',",
+  "require('mongoose');": "studentSchema);"
+}]

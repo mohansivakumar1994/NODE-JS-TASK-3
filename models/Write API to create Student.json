@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d77"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d78"
+  },
+  "const": "const",
+  "mongoose": "studentSchema",
+  "=": "=",
+  "require('mongoose');": "new"
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d79"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d7a"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d7b"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d7c"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d7d"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d7e"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d7f"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d80"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d81"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d82"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d83"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d84"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d85"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d86"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d87"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d88"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d89"
+  },
+  "const": "});"
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d8a"
+  }
+},
+{
+  "_id": {
+    "$oid": "667feff06f88171ea4a58d8b"
+  },
+  "const": "module.exports",
+  "mongoose": "=",
+  "=": "mongoose.model('Student',",
+  "require('mongoose');": "studentSchema);"
+}]
